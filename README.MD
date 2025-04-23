@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Sinotti, Agustín *[Modificar con su nombre completo]*  
+- **Nombre:** Spinotti, Agustín *[Modificar con su nombre completo]*  
 - **Comisión:** M2025-22 *[Modificar con su comisión, donde 7 es el número de comisión]*  
 
 ## 📂 Descripción del Repositorio  
